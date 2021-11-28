@@ -386,11 +386,11 @@ class WeatherChartCard extends LitElement {
         .main {
           display: flex;
           align-items: center;
-          font-size: 28px;
+          font-size: 48px;
           margin-bottom: 10px;
         }
         .main ha-icon {
-          --mdc-icon-size: 50px;
+          --mdc-icon-size: 150px;
           margin-right: 14px;
         }
         .main img {
